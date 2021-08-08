@@ -21,3 +21,5 @@ wc.generate(text)
  # store file
 
 wc.to_file('wordcloud_output.png')
+
+print("hi")

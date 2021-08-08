@@ -1,0 +1,2 @@
+Download and Install pip:
+Download the get-pip.py file and store it in the same directory as python is installed. Change the current path of the directory in the command line to the path of the directory where the above file exists. and wait through the installation process. Voila! pip is now installed on your system
